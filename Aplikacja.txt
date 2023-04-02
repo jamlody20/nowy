@@ -2,3 +2,11 @@
         System.out.println("Podaj nazwê u¿ytkownika");
         System.out.println("Podaj dobre has³o");
         System.out.println("Kliknij na przycisk zaloguj");
+
+
+   public void logowanie google() {
+        System.out.println("Podaj w³aœciw¹ nazwê u¿ytkownika");
+        System.out.println("Podaj dobre has³o");
+        System.out.println("Kliknij na przycisk zaloguj");
+
+
